@@ -1,5 +1,4 @@
 [
-  
   {
     "Id": "jenlooper-cactus",
     "Maker": "@jenlooper",
@@ -7,7 +6,10 @@
     "Url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
     "Title": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
     "Description": "This project is a good learning project to get comfortable with soldering and programming an Arduino.",
-    "Ratings": [ 5 ]
+    "Ratings": [
+      5,
+      5
+    ]
   },
   {
     "Id": "jenlooper-light",
@@ -130,36 +132,16 @@
     "Id": "selinazawacki-shirt",
     "Maker": "selinazawacki",
     "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
-    "Url": "https://www.instagram.com/p/BEXlpiZCnJ3/",
+    "Url": "https://www.instagram.com/p/BEXlpiZCnJ3",
     "Title": "Floppy Crop",
     "Description": "Used up the Diskette fabric today to make 2 of these crops.",
-    "Ratings": null
-  }
-]inally here on a tee! The Pretty Girls Code crew-neck tee is available in a soft pink with red writing."
-  },
-  {
-    "Id": "vogueandcode-ruby-sis-2",
-    "Maker": "vogueandcode",
-    "img": "https:\u002f\u002fuser-images.githubusercontent.com\u002f41929050\u002f61567063-14c4b300-aa33-11e9-8515-bcb866da9ea3.png",
-    "Url": "https:\u002f\u002fwww.vogueandcode.com\u002fshop\u002fruby-sis-2",
-    "Title": "Ruby Sis",
-    "Description": "Styled in a dashiki, Ruby Sis is listening to music while coding in her favorite language, Ruby!",
-    "Ratings": null
-  },
-  {
-    "Id": "selinazawacki-moon",
-    "Maker": "selinazawacki",
-    "img": "https:\u002f\u002fuser-images.githubusercontent.com\u002f41929050\u002f61567057-142c1c80-aa33-11e9-9781-9e442418eaab.png",
-    "Url": "https:\u002f\u002fwww.instagram.com\u002fp\u002fBFktVYPinKQ\u002f",
-    "Title": "Holographic Dark Moon Necklace",
-    "Description": "Not sure if I\u0027ll be making more, get it while I have it in the store.",
     "Ratings": null
   },
   {
     "Id": "selinazawacki-shirt",
     "Maker": "selinazawacki",
-    "img": "https:\u002f\u002fuser-images.githubusercontent.com\u002f41929050\u002f61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
-    "Url": "https:\u002f\u002fwww.instagram.com\u002fp\u002fBEXlpiZCnJ3\u002f",
+    "img": "https://user-images.githubusercontent.com/41929050/61567058-142c1c80-aa33-11e9-89fb-b4f30d84d69d.png",
+    "Url": "https://www.instagram.com/BEXlpiZCnJ3",
     "Title": "Floppy Crop",
     "Description": "Used up the Diskette fabric today to make 2 of these crops.",
     "Ratings": null
